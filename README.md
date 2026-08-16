@@ -12,7 +12,6 @@ Every person receives one permanent identity called a **CavoID**.
 
 Every profile contains a single public **Beacon**.
 
-Messages disappear after one Earth rotation.
 
 ---
 
